@@ -1,0 +1,7 @@
+{
+  "name": " टीकाकरण मित्र ",
+  "description": "An interactive knowledge base for the Immunization Handbook. Ask questions and get answers based on the built-in content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
